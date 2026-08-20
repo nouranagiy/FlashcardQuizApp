@@ -1,6 +1,6 @@
-# CodeAlpha Flashcard Quiz App
+# Flashcard Quiz App
 
-A simple and user-friendly Flashcard Quiz App built with Flutter as part of the CodeAlpha App Development Internship.
+A simple and user-friendly Flashcard Quiz App built with Flutter.
 
 ## 📱 Project Overview
 
@@ -74,13 +74,13 @@ Make sure you have:
 Clone the repository:
 
 ```bash
-git clone https://github.com/nouranagiy/CodeAlpha_FlashcardQuizApp.git
+git clone https://github.com/nouranagiy/FlashcardQuizApp.git
 ```
 
 Open the project:
 
 ```bash
-cd CodeAlpha_FlashcardQuizApp
+cd FlashcardQuizApp
 ```
 
 Install dependencies:
@@ -94,10 +94,6 @@ Run the application:
 ```bash
 flutter run
 ```
-
-## 🎯 Internship Task
-
-This project was developed as **Task 1: Flashcard Quiz App** for the CodeAlpha App Development Internship.
 
 ## 📌 Task Requirements Covered
 
@@ -119,4 +115,4 @@ Information Systems Graduate | Flutter Developer
 
 ## 📄 License
 
-This project was developed for educational and internship purposes.
+This project was developed for educational.
